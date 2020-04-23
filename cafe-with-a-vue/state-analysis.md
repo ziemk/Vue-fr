@@ -1,17 +1,17 @@
-# Cafe with a Vue State Analysis
+# Analyse du state de Cafe with a Vue
 
-## Global Data
+## Données Globales
 
-This is data that would most likely be needed across multiple components as the application grows.
+Voici les données qui ont le plus besoin d'être partagées entre plusieurs composants au fur et à mesure où l'application grossit.
 
 - Restaurant Name
 - Menu Items
 - Shopping Cart
 
-## Local Data
+## Données Locales
 
-This is information that is typically contained to a single page and does not need to be shared across multiple components
+Les informations ci-dessous sont typiquement contenues dans une seule page donc n'ont pas besoin d'être partagées entre plusieurs composants.
 
 - Contact
 
-**Note**: This is a one possible interpretation of how the data is organized. There are multiple ways to do this and feel free to test out different ideas as you build applications.
+**Note**: Il s'agit ici d'une interprétation possible de comment les données sont organisées. Il y a plusieurs moyens de le faire, et sentez vous libre de tester différentes idées quand vous construisez des applications.
